@@ -34,7 +34,7 @@ Bugs:
 -WiFi may randomly turn off after screen lock                      
 
 Download:                                                                                         
-GenomBuntu: from this git repo
+GenomBuntu: from this git repo       
 UbCartel kernel: from this git repo or from https://anonfiles.com/R0N11dkdpb/UbCartel-X-onclite-20201027_zip                 
 Mashkoukras vendor v2: https://anonfiles.com/5dT913k8p5/vendor_mashkoukrasV2_img                               
 Ubports gsi: https://mirrors.lolinet.com/firmware/halium/GSI/ubports_GSI_installer_v10.zip                                                               

@@ -29,8 +29,7 @@ Changelog:
 
 Bugs:                                   
 -Anbox is buggy, network and gpu aren't working
--MTP is not working, use sftp                                                                             
--WiFi may randomly turn off after screen lock                      
+-MTP is not working, use sftp                                                                                                  
 
 Download:                                                                                         
 GenomBuntu: from this git repo

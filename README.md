@@ -2,7 +2,7 @@
 Ubuntu touch (Ubports ota13)                                                    
 Project Cartel Based                                                     
 Status: Stable, Official, GSI                                                                
-Author:   @bibarub - telegram            
+Author:   @bibafox - telegram            
 Thank you:                                            
 Telegram:  @Flydiscohuebr                                                                   
 Telegram:  @erfanoabdi                               
@@ -31,12 +31,12 @@ Changelog:
 Bugs:                                   
 -Some graphic glitches may appear randomly     
 -Anbox is buggy, network and gpu aren't working           
--MTP is not working, use sftp                                                                             
+-MTP is not working, use sftp           
 -WiFi may randomly turn off after screen lock                      
 
 Download:                                                                                         
 GenomBuntu: from this git repo       
 UbCartel kernel: from this git repo or from https://anonfiles.com/R0N11dkdpb/UbCartel-X-onclite-20201027_zip                 
-Mashkoukras vendor v2: https://anonfiles.com/5dT913k8p5/vendor_mashkoukrasV2_img                               
-Ubports gsi: https://mirrors.lolinet.com/firmware/halium/GSI/ubports_GSI_installer_v10.zip                                                               
-Halium-ramdisk: https://mirrors.lolinet.com/firmware/halium/GSI/tools/halium-ramdisk.zip                                                                                    
+Mashkoukras vendor v2: https://anonfiles.com/5dT913k8p5/vendor_mashkoukrasV2_img          
+Ubports gsi: https://mirrors.lolinet.com/firmware/halium/GSI/ubports_GSI_installer_v10.zip              
+Halium-ramdisk: https://mirrors.lolinet.com/firmware/halium/GSI/tools/halium-ramdisk.zip                   
